@@ -19,6 +19,5 @@
 .idea/
 go.mod
 go.sum
-gqlgen.yml
-graph/
+
 server.go
